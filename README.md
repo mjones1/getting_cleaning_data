@@ -136,3 +136,4 @@ use write.table() to write final tidy data set out to text file
 *fBodyBodyAccJerkMag.std...mean
 *fBodyBodyGyroMag.std...mean
 *fBodyBodyGyroJerkMag.std...mean
+
